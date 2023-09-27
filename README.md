@@ -9,9 +9,9 @@ In order to install this repository you will need to navigate into my github "ht
 ## Usage
 To find my github, click [here](https://github.com/epinedo3/19PWA).
 
-To find my deployed website, click [here]( https://epinedo3.github.io/19PWA/).
+<!-- To find my deployed website, click [here]( https://epinedo3.github.io/19PWA/). -->
 
-To find my deployement on Heroku, click [here]().
+To find my deployement on Heroku, click [here](https://immense-garden-20696-c68fc7ee76ca.herokuapp.com/).
 
 ## Screenshot
 N/A
